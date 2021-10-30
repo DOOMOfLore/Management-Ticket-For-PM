@@ -10,6 +10,9 @@
         <a href="{{ route('archives.index') }}"><i class="fa fa-archive"></i> Archives</a>
     </li>
     <li>
+        <a href="{{ route('dailys.index') }}"><i class="fa fa-archive"></i> Daily</a>
+    </li>
+    <li>
         <a href="#"><i class="fa fa-users"></i> USERS</a>
         <ul>
             <li><a class="nav-link" href="{{ route('users.index') }}">Manage Users</a></li>

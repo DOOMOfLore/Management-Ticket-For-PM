@@ -24,3 +24,4 @@ Route::resource('permissions', 'PermissionController');
 Route::resource('tickets', 'TicketController');
 Route::resource('wikipedias', 'WikipediaController');
 Route::resource('archives', 'ArchiveController');
+Route::resource('dailys', 'DailyController');
